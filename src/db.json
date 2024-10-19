@@ -53,7 +53,7 @@
             "img":"https://m.media-amazon.com/images/M/MV5BZGQ1NjE0MmItZDNkOS00Y2E2LTkzZDUtNTgwMjc3OGJmODc0XkEyXkFqcGc@._V1_.jpg"
         }
     ],
-  "todos": [
+  "animes": [
     { "id": "1", "title": "Do homework", "checked": "false" },
     { "id": "2", "title": "Play football", "checked": "true" }
   ]
